@@ -13,6 +13,7 @@ $("i").on("click", function () {
 var sub = $("#sub");
 var item = $(".sub");
 
+// sub
 $(".sub").hide();
 
 sub.mouseenter(function () {

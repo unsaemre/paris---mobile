@@ -3,7 +3,8 @@ header.active {
   color: #999;
 }
 nav.active,
-.search_bg.active {
+.search_bg.active,
+.gnb_bg.active {
   background-color: rgba(0, 0, 0, 0.3);
   position: fixed;
   top: 0;
@@ -123,8 +124,13 @@ nav.active,
   z-index: 10;
   position: absolute;
   top: 60px;
-  left: 400px;
+  left: 20%;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.gnb1:hover .sub {
+  display: block;
+  opacity: 1;
 }
 .sub li {
   height: 40px;
