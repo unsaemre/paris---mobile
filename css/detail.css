@@ -55,8 +55,6 @@
   display: flex;
   gap: 234px;
 }
-.hero_wrap .text_box {
-}
 .hero_wrap .text_box h1 {
   font-size: 48px;
 }
@@ -377,7 +375,7 @@
     flex-direction: column;
   }
   .section_02 .photo {
-    width: 70%;
+    width: 100%;
   }
   .section_02 .photo img {
     width: 100%;
