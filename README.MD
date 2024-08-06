@@ -4,3 +4,6 @@ PARIS BAGUETTE
 
 
 - **기술 스택**: HTML, CSS, JavaScript
+- **페이지 수**: Main, Sub*2
+- **모바일 반응**: Yes
+
